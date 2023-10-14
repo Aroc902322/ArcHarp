@@ -1,5 +1,5 @@
 # ArcHarp
-Head direction .
+Head direction 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
  <$ go test -v -timeout 10s -run ^TestKeeperTestSuite/TestCreateGroupWithLotsOfMembers$ ./x/group/keeper/...> 
 === RUN   TestKeeperTestSuite
 === RUN   TestKeeperTestSuite/TestCreateGroupWithLotsOfMembers
