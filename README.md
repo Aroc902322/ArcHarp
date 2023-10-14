@@ -1,6 +1,6 @@
 # ArcHarp
 Head direction .
- $ go test -v -timeout 10s -run ^TestKeeperTestSuite/TestCreateGroupWithLotsOfMembers$ ./x/group/keeper/... 
+ <$ go test -v -timeout 10s -run ^TestKeeperTestSuite/TestCreateGroupWithLotsOfMembers$ ./x/group/keeper/...> 
 === RUN   TestKeeperTestSuite
 === RUN   TestKeeperTestSuite/TestCreateGroupWithLotsOfMembers
     keeper_test.go:115: group 2 created with 50 members
